@@ -1,0 +1,19 @@
+{
+  "name": "agility",
+  "version": "1.0.0",
+  "description": "A tool that helps with affinity sizing remotely.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RJDevelopment/Agility.git"
+  },
+  "author": "Jack & Richard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RJDevelopment/Agility/issues"
+  },
+  "homepage": "https://github.com/RJDevelopment/Agility#readme"
+}
